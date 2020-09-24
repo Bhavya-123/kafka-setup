@@ -1,4 +1,4 @@
-# kAFKA-SETUP
+# KAFKA-SETUP
 
 ### Below are the command to:
 - Start the Zookeeper service:
